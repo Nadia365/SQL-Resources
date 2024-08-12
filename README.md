@@ -10,5 +10,7 @@ I assembled all the resources tips and code chunks that I believe were useful fo
 Our client HR Analytica has tasked us to create 2 analytical views to power their dashboard outputs and enable their in-house analytics team to generate additional reports and answer basic business questions using our data assets.
 
 ##### The Entity Relation Diagram 
- ![image](https://github.com/user-attachments/assets/b59fa3fd-c481-4d9d-9c6b-e8683bbd9378)
+ ![image](https://github.com/user-attachments/assets/b59fa3fd-c481-4d9d-9c6b-e8683bbd9378) 
+
+##### TOOLS
 
