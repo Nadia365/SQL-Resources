@@ -1,7 +1,7 @@
 # SQL-Resources
 I assembled all the resources tips and code chunks that I believe were useful for tackling and solving SQL problems 
 
-## CASE 1: Dashboard Output of the Market Analysis
+## CASE 1: Dashboard Output of the People Analysis
 ![image](https://github.com/user-attachments/assets/4f211c0c-aac7-4708-a77b-1eb5bdf9fb6b) 
  ![image](https://github.com/user-attachments/assets/d0ac842b-9ed5-4646-a933-b57084a8ee2f)
 
